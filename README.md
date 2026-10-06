@@ -2,6 +2,8 @@
 
 An end-to-end Machine Learning system for predicting property prices based on tabular house attributes. Built using Python, Scikit-Learn, Flask REST API, and Streamlit.
 
+🚀 **Live Interactive Web App**: [https://anchalkushwaha-12-house-pridector-frontendapp-iiqofr.streamlit.app/](https://anchalkushwaha-12-house-pridector-frontendapp-iiqofr.streamlit.app/)
+
 ---
 
 ## 📁 Project Structure
@@ -61,7 +63,12 @@ Four regression algorithms were trained and evaluated on an 80/20 test split:
 
 ---
 
-## 🚀 Quickstart & Execution Guide
+## 🌐 Live Web Demo & Cloud Deployment
+- **Live Streamlit Web App**: [https://anchalkushwaha-12-house-pridector-frontendapp-iiqofr.streamlit.app/](https://anchalkushwaha-12-house-pridector-frontendapp-iiqofr.streamlit.app/)
+
+---
+
+## 🚀 Quickstart & Local Execution Guide
 
 ### 1. Install Dependencies
 ```bash
